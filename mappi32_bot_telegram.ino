@@ -1,9 +1,9 @@
 #include <CTBot.h>
 CTBot mybot;
-String ssid = "ssid";
-String pass= "986pswdr";
-String token = "1449400680:AAHQo0JhIs_O8rnaedfV2SqykVHgVyPVixA";
-const int id = 1386224063;
+String ssid = "SSID";
+String pass= "SSIDPASSWORD";
+String token = "xxxxxxxxxx:XXXXXXXXXXXXXXXXXXXXXXXXXA";
+const int id = xxxxxxxxx;
 
 #include <math.h>
 #include <SPI.h>
